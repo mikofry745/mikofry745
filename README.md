@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello there 👋 I’m Miko
+Passionate developer from Poland specializing in building robust backend systems with .NET and frontends using React. I thrive on solving complex problems, learning new technologies, and crafting scalable, user-focused solutions.
 
-<!--
-**mikofry745/mikofry745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact
 
-Here are some ideas to get you started:
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+**Backend:**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs)
+
+**Frontend:**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,ts)
+
+**Cloud:**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sharepoint,azure,aws)
+
+**Databases:**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,sqlite,mongodb)
+
+Monitoring
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus)
