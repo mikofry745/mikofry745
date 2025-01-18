@@ -5,24 +5,6 @@ Passionate developer from Poland specializing in building robust backend systems
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & tools I use
 
-**Backend:**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs)
-
-**Frontend:**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,ts)
-
-**Cloud:**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sharepoint,azure,aws)
-
-**Databases:**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,sqlite,mongodb)
-
-Monitoring
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus)
+**.NET, C#, React, TS, Sharepoint, Azure, AWS, SQLServer, SQLite, MongoDB, Prometheus, Loki, Grafana**
